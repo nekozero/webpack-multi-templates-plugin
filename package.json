@@ -1,0 +1,24 @@
+{
+  "name": "webpack-resolve-multiproject-plugin",
+  "version": "0.0.1",
+  "description": "A plugin for enhanced-resolve (in Webpack) that substitue relative imports as project-specific substitutes.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipibie/webpack-resolve-multiproject-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "enhanced-resolve",
+    "plugin"
+  ],
+  "author": "pipibie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pipibie/webpack-resolve-multiproject-plugin/issues"
+  },
+  "homepage": "https://github.com/pipibie/webpack-resolve-multiproject-plugin#readme"
+}
