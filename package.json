@@ -1,6 +1,6 @@
 {
   "name": "webpack-resolve-multiproject-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugin for enhanced-resolve (in Webpack) that substitue relative imports as project-specific substitutes.",
   "main": "lib/index.js",
   "scripts": {
