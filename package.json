@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/nekozero/webpack-multi-themes-plugin"
   },
-  "homepage": "https://github.com/nekozero/webpack-multi-themes-plugin#readme"
+  "homepage": "https://github.com/nekozero/webpack-multi-themes-plugin#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "dependencies": {
+    "enhanced-resolve": "^4.1.0"
+  }
 }
